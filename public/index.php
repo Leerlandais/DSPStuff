@@ -22,7 +22,7 @@
 </section>
 <hr>
 <section id = "mainBody">
-    
+    <h4 id = "sysName"></h4><h4 class="planetName"></h4>
 </section>
 <section id = "footer">
 <hr>
