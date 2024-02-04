@@ -1,0 +1,46 @@
+body {
+    background-color: #f4d292;
+}
+
+#mainBody {
+    margin: 50px 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 70vh;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 36px;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+footer {
+    font-style: italic;
+    font-family: cursive;
+}
+
+#copyright {                 
+    text-align: center;
+    transition: transform 50s ease-in-out;
+}
+
+#copyright:hover {
+    transform: rotateY(-36000deg);
+   
+} 
+
+#buttons {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.button {
+    width: 10%;
+    height: 50px;
+}
