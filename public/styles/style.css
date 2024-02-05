@@ -44,3 +44,8 @@ footer {
     width: 10%;
     height: 50px;
 }
+
+#mainTable tr th {
+    border: 1px solid black;
+    
+}
